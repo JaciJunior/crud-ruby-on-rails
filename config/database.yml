@@ -2,9 +2,9 @@ default: &default
   adapter: mysql2
   encoding: utf8
   pool: 5
-  username: laraveljj
-  password: P0werS1p**@eu!
-  host: 169.57.252.205
+  username: USURIO
+  password: SENHA
+  host: HOST
 
 development:
   <<: *default
